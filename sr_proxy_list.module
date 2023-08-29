@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19211 Created:07-28 06:34 Publisher:GMOogway
+#!desc=Rules:19225 Created:08-29 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -548,6 +548,7 @@ DOMAIN-SUFFIX,addtoany.com,PROXY
 DOMAIN-SUFFIX,addyoutube.com,PROXY
 DOMAIN-SUFFIX,adelaidebbs.com,PROXY
 DOMAIN-SUFFIX,adgoogle.net,PROXY
+DOMAIN-SUFFIX,adguard-dns.com,PROXY
 DOMAIN-SUFFIX,adguard-vpn.com,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
 DOMAIN-SUFFIX,adhelpnews.com,PROXY
@@ -715,7 +716,6 @@ DOMAIN-SUFFIX,ai,PROXY
 DOMAIN-SUFFIX,ai-kan.net,PROXY
 DOMAIN-SUFFIX,ai-wen.net,PROXY
 DOMAIN-SUFFIX,ai.binwang.me,PROXY
-DOMAIN-SUFFIX,ai.com,PROXY
 DOMAIN-SUFFIX,aiaa.org,PROXY
 DOMAIN-SUFFIX,aibaobei.me,PROXY
 DOMAIN-SUFFIX,aig,PROXY
@@ -1412,6 +1412,7 @@ DOMAIN-SUFFIX,aramco,PROXY
 DOMAIN-SUFFIX,arcadewank.com,PROXY
 DOMAIN-SUFFIX,arcgis.com,PROXY
 DOMAIN-SUFFIX,arcgisonline.com,PROXY
+DOMAIN-SUFFIX,archive-it.org,PROXY
 DOMAIN-SUFFIX,archive.org,PROXY
 DOMAIN-SUFFIX,archive.today,PROXY
 DOMAIN-SUFFIX,archiveofourown.com,PROXY
@@ -2427,11 +2428,6 @@ DOMAIN-SUFFIX,bikaios.xyz,PROXY
 DOMAIN-SUFFIX,bili2.cc,PROXY
 DOMAIN-SUFFIX,bili888.com,PROXY
 DOMAIN-SUFFIX,bili999.com,PROXY
-DOMAIN-SUFFIX,bilibiligame.co,PROXY
-DOMAIN-SUFFIX,bilibiligame.net,PROXY
-DOMAIN-SUFFIX,biligame.co,PROXY
-DOMAIN-SUFFIX,biligame.com,PROXY
-DOMAIN-SUFFIX,biligame.net,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,biliplus.com,PROXY
 DOMAIN-SUFFIX,biliworld.com,PROXY
@@ -3818,6 +3814,7 @@ DOMAIN-SUFFIX,cloudconvert.com,PROXY
 DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
 DOMAIN-SUFFIX,cloudflare.com,PROXY
@@ -3828,6 +3825,7 @@ DOMAIN-SUFFIX,cloudflarebolt.com,PROXY
 DOMAIN-SUFFIX,cloudflareclient.com,PROXY
 DOMAIN-SUFFIX,cloudflareinsights.com,PROXY
 DOMAIN-SUFFIX,cloudflareok.com,PROXY
+DOMAIN-SUFFIX,cloudflareportal.com,PROXY
 DOMAIN-SUFFIX,cloudflarepreview.com,PROXY
 DOMAIN-SUFFIX,cloudflareresolve.com,PROXY
 DOMAIN-SUFFIX,cloudflaressl.com,PROXY
@@ -4986,6 +4984,7 @@ DOMAIN-SUFFIX,dungeonkeeper.com,PROXY
 DOMAIN-SUFFIX,dunlop,PROXY
 DOMAIN-SUFFIX,duns,PROXY
 DOMAIN-SUFFIX,dunyabulteni.net,PROXY
+DOMAIN-SUFFIX,duolingo.com,PROXY
 DOMAIN-SUFFIX,duoweitimes.com,PROXY
 DOMAIN-SUFFIX,duoweiweek.com,PROXY
 DOMAIN-SUFFIX,duping.net,PROXY
@@ -8500,6 +8499,7 @@ DOMAIN-SUFFIX,idouga.com,PROXY
 DOMAIN-SUFFIX,idreamx.com,PROXY
 DOMAIN-SUFFIX,ids-apple.com,PROXY
 DOMAIN-SUFFIX,idservice.inc,PROXY
+DOMAIN-SUFFIX,idx.dev,PROXY
 DOMAIN-SUFFIX,ie,PROXY
 DOMAIN-SUFFIX,ie10.com,PROXY
 DOMAIN-SUFFIX,ie11.com,PROXY
@@ -8743,6 +8743,9 @@ DOMAIN-SUFFIX,innovations-i.com,PROXY
 DOMAIN-SUFFIX,inoreader.com,PROXY
 DOMAIN-SUFFIX,inporn.com,PROXY
 DOMAIN-SUFFIX,insecam.org,PROXY
+DOMAIN-SUFFIX,inshot.cc,PROXY
+DOMAIN-SUFFIX,inshot.com,PROXY
+DOMAIN-SUFFIX,inshotapp.com,PROXY
 DOMAIN-SUFFIX,insidefilms.com,PROXY
 DOMAIN-SUFFIX,insidemacintosh.com,PROXY
 DOMAIN-SUFFIX,insider-intelligence.com,PROXY
@@ -11335,6 +11338,7 @@ DOMAIN-SUFFIX,mypornstarbook.net,PROXY
 DOMAIN-SUFFIX,mypornvid.fun,PROXY
 DOMAIN-SUFFIX,mypornwap.fun,PROXY
 DOMAIN-SUFFIX,myq2.com,PROXY
+DOMAIN-SUFFIX,myqnapcloud.com,PROXY
 DOMAIN-SUFFIX,myreadingmanga.info,PROXY
 DOMAIN-SUFFIX,myrewardzone.com,PROXY
 DOMAIN-SUFFIX,myrimmingporn.com,PROXY
@@ -12184,6 +12188,8 @@ DOMAIN-SUFFIX,onefifteen.net,PROXY
 DOMAIN-SUFFIX,onefifteen.org,PROXY
 DOMAIN-SUFFIX,onejapanese.com,PROXY
 DOMAIN-SUFFIX,onejav.com,PROXY
+DOMAIN-SUFFIX,onekey-asset.com,PROXY
+DOMAIN-SUFFIX,onekeycn.com,PROXY
 DOMAIN-SUFFIX,onenote.com,PROXY
 DOMAIN-SUFFIX,onenote.net,PROXY
 DOMAIN-SUFFIX,onepornlist.com,PROXY
@@ -12260,6 +12266,7 @@ DOMAIN-SUFFIX,opengw.net,PROXY
 DOMAIN-SUFFIX,openid.net,PROXY
 DOMAIN-SUFFIX,openjsf.org,PROXY
 DOMAIN-SUFFIX,openleaks.org,PROXY
+DOMAIN-SUFFIX,openlibrary.org,PROXY
 DOMAIN-SUFFIX,openmaps.org,PROXY
 DOMAIN-SUFFIX,openmidas.com,PROXY
 DOMAIN-SUFFIX,openresty.org,PROXY
@@ -12806,6 +12813,8 @@ DOMAIN-SUFFIX,pieceofplastic.com,PROXY
 DOMAIN-SUFFIX,pifpafarabia.com,PROXY
 DOMAIN-SUFFIX,pigav.com,PROXY
 DOMAIN-SUFFIX,pikabu.monster,PROXY
+DOMAIN-SUFFIX,pikpak.me,PROXY
+DOMAIN-SUFFIX,pikpakdrive.com,PROXY
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
 DOMAIN-SUFFIX,pin6.com,PROXY
@@ -13573,6 +13582,7 @@ DOMAIN-SUFFIX,qmap.pub,PROXY
 DOMAIN-SUFFIX,qmov.com,PROXY
 DOMAIN-SUFFIX,qmov.net,PROXY
 DOMAIN-SUFFIX,qmttqg3k.me,PROXY
+DOMAIN-SUFFIX,qnap.com,PROXY
 DOMAIN-SUFFIX,qombol.com,PROXY
 DOMAIN-SUFFIX,qooqlevideo.com,PROXY
 DOMAIN-SUFFIX,qoos.com,PROXY
@@ -13824,6 +13834,8 @@ DOMAIN-SUFFIX,redditmedia.com,PROXY
 DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,redfaptube.com,PROXY
 DOMAIN-SUFFIX,redgifs.com,PROXY
+DOMAIN-SUFFIX,redhat.com,PROXY
+DOMAIN-SUFFIX,redhat.org,PROXY
 DOMAIN-SUFFIX,redhotlabs.com,PROXY
 DOMAIN-SUFFIX,redislabs.com,PROXY
 DOMAIN-SUFFIX,redken,PROXY
@@ -17117,6 +17129,7 @@ DOMAIN-SUFFIX,vultryhw.com,PROXY
 DOMAIN-SUFFIX,vxnbbrs.xyz,PROXY
 DOMAIN-SUFFIX,vxxsred.xyz,PROXY
 DOMAIN-SUFFIX,vzw.com,PROXY
+DOMAIN-SUFFIX,w-mt.co,PROXY
 DOMAIN-SUFFIX,w.idaiwan.com,PROXY
 DOMAIN-SUFFIX,w.org,PROXY
 DOMAIN-SUFFIX,w.wiki,PROXY
@@ -18828,6 +18841,7 @@ DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com,PROXY
 DOMAIN,nvidia.tt.omtrdc.net,PROXY
 DOMAIN,ocsp.microsoft.com,PROXY
 DOMAIN,officecdn-microsoft-com.akamaized.net,PROXY
+DOMAIN,onekey.zendesk.com,PROXY
 DOMAIN,oneocsp.microsoft.com,PROXY
 DOMAIN,ood.opsource.net,PROXY
 DOMAIN,openaiapi-site.azureedge.net,PROXY
